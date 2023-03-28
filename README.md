@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### My name is Khaoula El Hattabi, I am a junior enthusiatic devlopper in my pre-graduation year.
 
-#### - I’m currently learning : Java EE , Spring Framework, Devops, Mobile devlopement, Machine Learning
+#### - I’m currently learning : Java EE , Spring Framework, Devops, Mobile devlopement, Machine Learning, JavaScript including ReactJs and AngularJs
 <!--
 **KhaoulaElHattabi/KhaoulaElHattabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
