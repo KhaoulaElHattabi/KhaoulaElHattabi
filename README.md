@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20 I%20am%20Khaoula%20El%20Hattabi&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&repeat=false" /></a>
     <br/>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software engineering%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&repeat=false" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software engineering%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 I’m currently learning : Java EE , Spring Framework, Devops, Mobile devlopement, Machine Learning, JavaScript including ReactJs and AngularJs
 
