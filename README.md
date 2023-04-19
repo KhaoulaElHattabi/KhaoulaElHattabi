@@ -7,7 +7,7 @@
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=Software engineering%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=3000&size=22" /></a>
 </p>
-I’m currently learning : JavaScript and some of it libraries, Java EE , Spring Framework, Devops. 
+I’m currently learning : JavaScript including some libraries like ReactJs and VueJs, Java EE , Spring Framework and Devops. 
 
 <details open>
 
