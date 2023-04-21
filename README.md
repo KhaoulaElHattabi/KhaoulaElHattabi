@@ -7,13 +7,13 @@
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=Software engineering%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=3000&size=22" /></a>
 </p>
-<h3> I’m currently learning : JavaScript including some libraries like ReactJs and VueJs, Java EE , Spring Framework and Devops. </h3>
+<h3> I’m currently learning 🌱: JavaScript including ReactJs and AngularJs, Java EE with Spring Framework and Devops. </h3>
 
 <details open>
 
  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h3< Streak Stats</h3>
     <div align="center">
           <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=KhaoulaElHattabi&theme=dracula&border_radius=4.7&type=png"
