@@ -11,7 +11,7 @@
 <h3> ..🏗️ I'm working on movies mobile app and Java EE Spring application. </h2>
 
 
-<details open>
+<details open="false">
 
  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
