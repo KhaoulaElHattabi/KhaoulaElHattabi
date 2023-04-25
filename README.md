@@ -7,7 +7,7 @@
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=Computer Science%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=3000&size=22" /></a>
 </p>
-<h3> ..🌱 I’m currently learning Devops, Data Engineering, Java EE with Spring Framework and JavaScript including ReactJs and AngularJs,. </h2>
+<h3> ..🌱 I’m currently learning Devops, Data Engineering and Java EE with Spring Framework. </h2>
 <h3> ..🏗️ I'm working on movies mobile app and Java EE Spring application. </h2>
 
 
