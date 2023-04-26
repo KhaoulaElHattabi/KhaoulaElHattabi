@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20 I%20am%20Khaoula%20El%20Hattabi&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25&repeat=false,pause=0" /></a>
     <br/>
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=4th Year20%Computer Science%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=3000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer Science%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=3000&size=22" /></a>
 </p>
 <h3> ..🌱 I’m currently learning and practicing Devops, JavaScript including AngularJs and Java EE with Spring Framework. </h2>
 <h3> ..🏗️ I'm working on movies mobile app and Java EE Spring Hospital application. </h2>
