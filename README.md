@@ -7,8 +7,9 @@
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=Computer Science%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=3000&size=22" /></a>
 </p>
-<h3> ..🌱 I’m currently learning and practicing... </h2>
+<h3> ..🌱 I’m currently learning Data Fundementals using python and practicing Java EE and Spring Framework using Cloud features </h2>
 <h3> ..🏗️ I'm currently working on Java EE Spring Banking application. </h2>
+<h3> .. 📫 How to reach me <a href="khaoulaelhattabi1@gmail.com"> khaoulaelhattabi1@gmail.com </a>   </h3>
 
 
 <details open="false">
