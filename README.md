@@ -9,7 +9,7 @@
 </p>
 <h3> .. 🌱 I’m currently learning Data Fundementals using python  </h3>
 <h3> .. 🖥️ I am practicing Java EE with Spring framework using Cloud features</h3>
-<h3> ..🏗️ I'm currently working on Java EE Spring Banking application. </h2>
+<h3> ..🏗️ I'm currently working on a Summer Internship project . </h2>
 <h3> .. 📫 How to reach me <a href="khaoulaelhattabi1@gmail.com"> khaoulaelhattabi1@gmail.com </a>   </h3>
 
 
