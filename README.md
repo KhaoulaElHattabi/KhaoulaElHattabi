@@ -5,9 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20 I%20am%20Khaoula%20El%20Hattabi&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25&repeat=false,pause=0" /></a>
     <br/>
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Computer Science%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=3000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software Engineering%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=3000&size=22" /></a>
 </p>
-<h3> .. 🌱 I’m currently learning Data Fundementals using python  </h3>
+<h3> .. 🌱 I’m currently learning Data Fundamentals using python  </h3>
 <h3> .. 🖥️ I am practicing Java EE with Spring framework using Cloud features</h3>
 <h3> ..🏗️ I'm currently working on a Summer Internship project . </h2>
 <h3> .. 📫 How to reach me <a href="khaoulaelhattabi1@gmail.com"> khaoulaelhattabi1@gmail.com </a>   </h3>
