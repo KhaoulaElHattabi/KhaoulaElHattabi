@@ -7,9 +7,9 @@
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=Software Engineering%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=3000&size=22" /></a>
 </p>
-<h3> .. 🌱 I’m currently learning Data Fundamentals using python  </h3>
-<h3> .. 🖥️ I am practicing Java EE with Spring framework using Cloud features</h3>
-<h3> ..🏗️ I'm currently working on a Summer Internship project . </h2>
+<h3> .. 🌱 I’m currently learning Machine Learning, Deep Learning using python  </h3>
+<h3> .. 🖥️ I am practicing Java EE Microservices with Spring framework using Cloud features</h3>
+<!--<h3> ..🏗️ I'm working on a Summer Internship project. </h2>-->
 <h3> .. 📫 How to reach me <a href="khaoulaelhattabi1@gmail.com"> khaoulaelhattabi1@gmail.com </a>   </h3>
 
 
