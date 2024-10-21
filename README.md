@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20 I%20am%20Khaoula%20El%20Hattabi&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25&repeat=false,pause=0" /></a>
     <br/>
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=IT Engineering%20student%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=3000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software Engineer%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=3000&size=22" /></a>
 </p>
 <!--<h3> .. 🌱 I’m currently learning the basics of data engineering & </h3>-->
 <!--<h3> .. 🖥️ I am practicing JEE/Spring boot apps using Cloud features</h3>-->
